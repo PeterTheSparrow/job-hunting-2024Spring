@@ -1,12 +1,19 @@
 # Job Hunting - 2024 Spring
 
 > Whisper words of wisdom, let it be
-And when the broken hearted people
-living in the world agree
-There will be an answer, let it be
-For though they may be parted
-there is still a chance that they will see
-There will be an answer, let it be
+>  
+> And when the broken hearted people
+>  
+> living in the world agree
+>  
+> There will be an answer, let it be
+>  
+> For though they may be parted
+>  
+> there is still a chance that they will see
+>  
+> There will be an answer, let it be
+>  
 > —— Let It Be, The Beatles
 
 just let it be。
